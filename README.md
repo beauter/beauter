@@ -1,4 +1,4 @@
-<img src="https://github.com/beauter/beauter/blob/main/banner.png" />
+<img src="[https://github.com/beauter/beauter/blob/main/banner.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.planview.com%2Fwp-content%2Fuploads%2F2020%2F01%2FTop-6-Software-Development-Methodologies.jpg&imgrefurl=https%3A%2F%2Fblog.planview.com%2Ftop-6-software-development-methodologies%2F&tbnid=e_nbP1Ju2LkrEM&vet=12ahUKEwiZtcrF4rn6AhXB34UKHZTmCPIQMygFegUIARDkAQ..i&docid=qEvgYXLs-oHBRM&w=800&h=427&q=software%20engineering&ved=2ahUKEwiZtcrF4rn6AhXB34UKHZTmCPIQMygFegUIARDkAQ)" />
 
 My Name is [Beauter](https://instagram.com/officialbeauter). I am a software engineer with interest in solving real-world problems with technology and dependable leadership. An avid [Youtuber](https://www.youtube.com/channel/UCtX2ovFajtypCx2b4OXbZyQ/) | [Twitter](https://twitter.com/officialbeauter/) exploring information technology advancements and personal development through books.
 Ask me anything [here](https://github.com/beauter/beauter/issues?q=is%3Aissue+is%3Aopen).
