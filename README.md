@@ -24,6 +24,7 @@ Ask me anything [here](https://github.com/beauter/beauter/issues?q=is%3Aissue+is
 </a>
 
 <p> 
-  <a href="https://twitter.com/officialbeauter/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://twitter.com/officialbeauter/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://officialbeauter.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 </div>
