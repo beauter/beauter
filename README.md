@@ -1,6 +1,6 @@
 <img src="https://github.com/beauter/beauter/blob/main/banner.jpg" />
 
-My Name is [Beauter](https://instagram.com/officialbeauter). I am a software engineer with interest in solving real-world problems with technology and dependable leadership. An avid [Youtuber](https://www.youtube.com/channel/UCtX2ovFajtypCx2b4OXbZyQ/) | [Twitter](https://twitter.com/officialbeauter/) exploring information technology advancements and personal development through books.
+My Name is [Beauter](https://instagram.com/officialbeauter). I am a software engineer with interest in solving real-world problems with technology and dependable leadership. An avid [Youtuber](https://www.youtube.com/@yrnbeauter/) | [Twitter](https://twitter.com/officialbeauter/) exploring information technology advancements and personal development through books.
 Ask me anything [here](https://github.com/beauter/beauter/issues?q=is%3Aissue+is%3Aopen).
 
 <div align="center">
